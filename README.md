@@ -1,7 +1,8 @@
 # DeepLearning Tutorial for LAIR lab
 
 last update 2023 06.23 by Sibaek Lee \
-last update 2024 05.12 by Sibaek Lee
+last update 2024 05.12 by Sibaek Lee \
+last update 2024 10.05 by Sibaek Lee
 
 
 - 실습은 ipynb로 하며 구글 코랩 또는 jupyternote book을 사용하시면 됩니다.
